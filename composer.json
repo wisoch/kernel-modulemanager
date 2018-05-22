@@ -1,0 +1,10 @@
+{
+    "name": "kernel/kernel-modulemanager",
+    "description": "Kernel Module Manager",
+    "license": "BSD-3-Clause",
+    "autoload": {
+        "psr-4": {
+            "Kernel\\ModuleManager\\": "src/"
+        }
+    }
+}
